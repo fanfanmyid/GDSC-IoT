@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093727570058",
+    "firebase_url": "https://fir-gdsc-workshop-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-gdsc-workshop",
+    "storage_bucket": "fir-gdsc-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093727570058:android:bfc860e1e5c356301f0573",
+        "android_client_info": {
+          "package_name": "my.id.fanfan.gdsc_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093727570058-klv7c2g36nnclof8njqvark025s01t7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5s3vK9nosYbUlslvLjBACjqCmjpzBO4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093727570058-klv7c2g36nnclof8njqvark025s01t7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
